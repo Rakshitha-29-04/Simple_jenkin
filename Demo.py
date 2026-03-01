@@ -1,6 +1,6 @@
-# Fibonacci series up to n terms
+# Fibonacci series
 
-n = 10   # number of terms
+n = 5
 
 a = 0
 b = 1
